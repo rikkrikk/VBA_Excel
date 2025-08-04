@@ -32,3 +32,18 @@ Each module represents the automation workflow:
 4. IP tracking and user information analysis
 5. Dashboard & Reporting
 6. Save/export utility
+
+
+#Excel VBA Automation: Phase 1, Phase 2, Phase 3
+
+- It is not available due to the data connected to it. It will reveal information regarding the data it is working on.
+
+## Changelog
+
+- Data was placed inside the automation for faster processing.
+- Fix the Debug with 1 transaction.
+- Reworked the redundant parts of the code that contribute to slow processing.
+- Updated information of the process change.
+- Refactor the design and rearrange the flow or placement of sub routine.
+- Add detailed comments and prioritizing the design of the important data.
+- Documentations.
